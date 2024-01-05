@@ -1,0 +1,16 @@
+{
+  "name": "crud-com-qualidade",
+  "version": "1.0.0",
+  "description": "Curso CRUD com qualidade, por DevSoutinho (https://crudcomqualidade.io/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./core/crud.js",
+    "dev": "nodemon ./core/crud.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
